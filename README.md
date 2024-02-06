@@ -1,6 +1,3 @@
-Certainly! Below is a template for a README file that you can use for a Human Activity Recognition project using smartphone data and machine learning. Feel free to customize it based on the specifics of your project.
-
-```markdown
 # Human Activity Recognition using Smartphone Data and Machine Learning
 
 ## Overview

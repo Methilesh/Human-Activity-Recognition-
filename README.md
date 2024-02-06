@@ -24,6 +24,8 @@ Make sure you have the following dependencies installed:
 - Python (>=3.6)
 - NumPy
 - Pandas
+- matplotlib
+- seaborn
 - Scikit-learn
 - Matplotlib
 - [Add any additional libraries your project depends on]
@@ -65,25 +67,6 @@ pip install -r requirements.txt
    ```
 
 ## Results
+![Screenshot 2024-02-06 115905](https://github.com/Methilesh/Human-Activity-Recognition-/assets/141352214/264df538-5a40-41c8-a00e-f73d25cf1a93)
 
-[Include details about the model's performance, accuracy, and any relevant metrics. You may also include visualizations or confusion matrices.]
-
-## Future Work
-
-[Discuss any potential enhancements, additional features, or improvements that could be made to the project in the future.]
-
-## Contributing
-
-Feel free to contribute to this project by [explaining how others can contribute, such as creating issues or submitting pull requests].
-
-## License
-
-This project is licensed under the [mention the type of license you are using, e.g., MIT License].
-
-## Acknowledgments
-
-[Give credit to any third-party libraries, tools, or resources you used or were inspired by.]
-
-```
-
-Remember to replace placeholders like `[provide the name and source of your dataset]` with specific information about your project. Customize the sections based on the structure and needs of your particular project.
+![Screenshot 2024-02-06 115939](https://github.com/Methilesh/Human-Activity-Recognition-/assets/141352214/40ffa24b-c176-462e-b6fb-b29f2302e691)
